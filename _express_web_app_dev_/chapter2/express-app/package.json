@@ -7,6 +7,6 @@
   },
   "dependecies": {
     "express": "4.0.0",
-    "pug": "*"
+    "jade": "*"
   }
 }
