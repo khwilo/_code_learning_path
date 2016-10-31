@@ -8,4 +8,12 @@ class Unicorn
 		# return the instance variable from the initialize method
 		@name
 	end
+
+	def color
+		"white"
+	end
+
+	def white?
+		true
+	end
 end
