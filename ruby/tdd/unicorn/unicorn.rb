@@ -15,6 +15,6 @@ class Unicorn
 	end
 
 	def white?
-		true
+		color == "white"
 	end
 end
