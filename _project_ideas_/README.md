@@ -13,4 +13,5 @@
 11. **Debate Platform Application** - An application where you would debate with other people about a certain topic. Fosters collaboration among the community. Topics include politics, entertainment, technology etc. Uses the Twitter format of trending topics and one can be able to join a certain event (debate). You are also allowed to form your own debate group.  
 12. **Health Tech** - An application for pharmacy that one can be able to deliver medicine to a particular location.  
 13. **Car Parking Application** - An application that marks open parking spaces in a crowded parking lot.  
-14. **Music Finding Application** - An application that lets you hum a melody or give certain lines of a lyrics to a song and it will be able to tell you which kind of song it is. There will be an option to download or stream the song.
+14. **Music Finding Application** - An application that lets you hum a melody or give certain lines of a lyrics to a song and it will be able to tell you which kind of song it is. There will be an option to download or stream the song.  
+15. **Digital book club application** - An application that lets you form a book club based on your location and what people are currently reading. It may allow you to also exchange books. I may also extend the application to extend to include other people's interests and join them.
