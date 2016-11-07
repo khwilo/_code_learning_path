@@ -20,7 +20,22 @@ class Encryptor
 		results  = letters.collect do |letter|
 			encrypt_letter(letter)
 		end
+
 		results.join
+	end
+
+	def decrypt_letter(decrypt_letter)
+		lowcase_letter = decrypt_letter.downcase
+		cipher.key(lowcase_letter)
+	end
+
+	def decrypt(string)
+		letters = string.split("")
 		
+		result = letters.collect do |letter|
+			decrypt_letter(letter)
+		end
+
+		result.join
 	end
 end
