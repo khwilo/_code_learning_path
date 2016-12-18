@@ -1,3 +1,3 @@
 # C LEARNING PATH
 
-Code repository for lcthw
+Code repository for Learn C the Hard Way
